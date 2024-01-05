@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Aubay Portugal**
 
-- 🌱 I’m currently learning **Scala**
+- 🌱 I’m currently learning **Scala and Quarkus**
 
 - 👯 I’m looking to collaborate on **Backend community**
 
