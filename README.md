@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bevilacqua1996" alt="bevilacqua1996" /></a> </p>
 
-- 🔭 I’m currently working at **Aubay Portugal**
+- 🔭 I’m currently working at **KLX S.A**
 
-- 🌱 I’m currently learning **Scala and Quarkus**
+- 🌱 I’m currently learning **Quarkus with LangChain4J + Vaadin**
 
-- 👯 I’m looking to collaborate on **Backend community**
+- 👯 I’m looking to collaborate on **Technology community**
 
 - 🤝 I’m looking for help with **anything that I can share my knowledge**
 
